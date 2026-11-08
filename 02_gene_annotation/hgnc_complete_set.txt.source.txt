@@ -1,0 +1,2 @@
+Downloaded_UTC: 2026-10-22 10:52:30 UTC
+URL: https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt
